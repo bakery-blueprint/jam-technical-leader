@@ -1,0 +1,2 @@
+# technical-leader
+Gerald-Weinberg
